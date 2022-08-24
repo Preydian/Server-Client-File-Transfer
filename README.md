@@ -15,6 +15,7 @@ Run on command line
 - python myclient.py date 127.0.0.1 8000
 - python myclient.py time 127.0.0.1 8001
 - python myclient.py date 127.0.0.0 8002
+
 Important:
 ------------------------------------------------------------------------------------------------------------------------
 (Make sure to run myserver and myclient on two different command lines)
