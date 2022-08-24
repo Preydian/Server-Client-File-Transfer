@@ -6,6 +6,7 @@ Simple server and client made in python with sockets
 Running the transfer:
 ------------------------------------------------------------------------------------------------------------------------
 1.) myserver program takes 3 unused ports as arguments from the command line.
+
 Run on command line 
 - python myserver.py 8000 8001 8002
 
