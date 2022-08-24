@@ -8,7 +8,7 @@ Running the transfer:
 1.) myserver program takes 3 unused ports as arguments from the command line
 Run on command line 
 - python myserver.py 8000 8001 8002
-- 
+
 2.) myclient program takes 3 arguments. Firstly either "date" or "time", second a host ip e.g "127.0.0.1" and lastly one of the unused ports specified with the server.
 Examples of possible commands below
 Run on command line
